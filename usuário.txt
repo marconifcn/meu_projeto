@@ -1,1 +1,17 @@
-arquivo usuário
+[33mcommit 692ec6880b786b11f359632df1dfc0a9709ae479[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marconi Nunes <marconifcn@gmail.com>
+Date:   Tue Oct 31 10:47:09 2023 -0300
+
+    feito comit
+
+[33mcommit 10bbf26982590768daa333fb6dbd42b84b773c06[m
+Author: Marconi Nunes <marconifcn@gmail.com>
+Date:   Tue Oct 31 10:35:55 2023 -0300
+
+     Arquivo Home inserido
+
+[33mcommit 93429d20e26d3b3f31ae94723ee48e3b6be14bac[m
+Author: Marconi Nunes <marconifcn@gmail.com>
+Date:   Tue Oct 31 10:32:15 2023 -0300
+
+    feito commit
