@@ -1,3 +1,7 @@
 teste
-novo teste
+gnovo teste
 eu agora estou sincronizando o repositório local  ao repositório remoto
+teste teste 
+teste
+teste
+git add
