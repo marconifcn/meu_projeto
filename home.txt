@@ -1,2 +1,3 @@
 teste
 novo teste
+eu agora estou sincronizando o repositório local  ao repositório remoto
